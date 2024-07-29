@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm start\" \"npm run client\""
   },
   "keywords": [],
-  "author": "techinfyt",
+  "author": "Nishant Kumar",
   "license": "MIT",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
